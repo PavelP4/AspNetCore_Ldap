@@ -1,0 +1,1 @@
+﻿Example created based on https://decovar.dev/blog/2022/06/16/dotnet-ldap-authentication/
